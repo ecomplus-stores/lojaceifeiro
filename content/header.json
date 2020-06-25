@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
+    "text": "Aproveite o cupom EMCASACOMACEIFEIRO e ganhe 10% de desconto! ",
     "link": "/promotion"
   },
   "contacts_stripe": {
@@ -8,10 +8,6 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
