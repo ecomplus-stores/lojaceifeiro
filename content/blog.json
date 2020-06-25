@@ -2,5 +2,10 @@
   "title": "Blog Ceifeiro Alimentos",
   "meta_title": "Blog Ceifeiro Alimentos",
   "meta_description": "Blog",
-  "sections": []
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
