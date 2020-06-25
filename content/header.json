@@ -6,12 +6,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
         "title": "Blog Ceifeiro ",
         "link": "https://lojaceifeiro.netlify.app/blog"
+      },
+      {
+        "title": "Sobre nós",
+        "link": "/pages/sobre-nos"
       }
     ],
     "phone_wpp": true,
