@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele em até 12x via pagseguro. "
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Aproveite o cupom EMCASACOMACEIFEIRO e ganhe 10% de desconto no carrinho. "
   }
 }
