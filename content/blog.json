@@ -2,29 +2,5 @@
   "title": "Blog Ceifeiro Alimentos",
   "meta_title": "Blog Ceifeiro Alimentos",
   "meta_description": "Blog",
-  "sections": [
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
-    },
-    {
-      "type": "page-title"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner2.jpg"
-        }
-      ]
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    }
-  ]
+  "sections": []
 }
