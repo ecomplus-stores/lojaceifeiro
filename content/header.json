@@ -8,6 +8,10 @@
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Blog Ceifeiro ",
+        "link": "https://lojaceifeiro.netlify.app/blog"
       }
     ],
     "phone_wpp": true,
