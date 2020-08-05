@@ -12,6 +12,11 @@
           "img": "/img/uploads/capa-png.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "lowest_price"
     }
   ]
 }
