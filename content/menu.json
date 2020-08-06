@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "premium",
+    "kits-promocionais",
+    "granolas",
+    "biscoitos-e-cookies",
+    "aveiasceifeiro"
+  ],
   "phone_wpp": true,
   "socials": true
 }
