@@ -1,17 +1,17 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite o cupom EMCASACOMACEIFEIRO e ganhe 10% de desconto! ",
+    "text": "Compre on line e receba em qualquer lugar do Brasil!",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Blog Ceifeiro ",
-        "link": "https://lojaceifeiro.netlify.app/blog"
-      },
-      {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Blog Ceifeiro ",
+        "link": "https://lojaceifeiro.netlify.app/blog"
       }
     ],
     "phone_wpp": true,
