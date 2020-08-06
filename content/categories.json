@@ -6,6 +6,14 @@
     {
       "type": "category-retail",
       "enabled": true
+    },
+    {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
