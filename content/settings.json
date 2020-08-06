@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/ceifeiro-alimentos-integrais.png",
-  "name": "Loja Virtual Ceifeiro Alimentos",
+  "name": "Ceifeiro Alimentos Integrais",
   "short_name": "Loja Ceifeiro",
   "lang": "pt_br",
   "currency": "BRL",
@@ -18,6 +18,6 @@
   "secondary_color": "#326c13",
   "icon": "/img/uploads/ceifeiro-alimentos-integrais.png",
   "store_id": 1120,
-  "description": "Loja Virtual Ceifeiro Alimentos",
+  "description": "A Ceifeiro Alimentos produz linhas diversificadas de biscoitos e cookies integrais, granolas, aveias, farinhas, chia, linhaça, gergelim, guaraná em pó, flocos de tapioca, óleo de coco e arroz integral.\nA empresa atende a diferentes nichos de mercado, como pessoas físicas, indústrias, lojas de conveniência, supermercados, redes de atacarejo, profissionais de nutrição e lojas especializadas em alimentação saudável.",
   "large_icon": "/img/uploads/ceifeiro-alimentos-integrais.png"
 }
