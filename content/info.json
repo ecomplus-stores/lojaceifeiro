@@ -1,7 +1,8 @@
 {
   "shipping": {
-    "show": true,
-    "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!"
+    "show": false,
+    "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!",
+    "link": "www.lojaceifeiro.com.br"
   },
   "installments": {
     "show": true,
@@ -14,6 +15,6 @@
   "promo": {
     "show": true,
     "text": "Adquira os kits promocionais e ganhe um brinde exclusivo.",
-    "link": "https://lojaceifeiro.netlify.app/kits-promocionais"
+    "link": "https://www.lojaceifeiro.com.br/kits-promocionais"
   }
 }
