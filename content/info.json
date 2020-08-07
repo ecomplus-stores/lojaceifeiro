@@ -1,8 +1,8 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!",
-    "link": "www.lojaceifeiro.com.br"
+    "link": ""
   },
   "installments": {
     "show": true,
