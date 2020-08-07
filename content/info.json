@@ -9,7 +9,7 @@
     "text": "Parcele em até 12x via pagseguro ou à vista com débito ou boleto. "
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
