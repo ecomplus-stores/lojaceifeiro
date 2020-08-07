@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": false,
-    "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!",
+    "text": "",
     "link": ""
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele em até 12x via pagseguro ou à vista com débito ou boleto. "
   },
   "exchange": {
@@ -14,7 +14,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Adquira os kits promocionais e ganhe um brinde exclusivo.",
-    "link": "https://www.lojaceifeiro.com.br/kits-promocionais"
+    "text": "Compre on line e receba seus produtos em qualquer lugar do Brasil!",
+    "link": "https://www.lojaceifeiro.com.br/"
   }
 }
