@@ -3,21 +3,27 @@
   "meta_description": "A Ceifeiro Alimentos produz linhas diversificadas de biscoitos e cookies integrais, granolas, aveias, farinhas, chia, linhaça, gergelim, guaraná em pó, flocos de tapioca, óleo de coco e arroz integral. ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "slides": [
-        {
-          "start": "2020-08-14T14:48:11.810Z",
-          "end": "2020-08-14T14:48:11.931Z",
-          "img": "/img/uploads/sliders-2.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "lowest_price",
       "headless": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/sliders-2.jpg"
+        },
+        {
+          "img": "/img/uploads/sliders-1.jpg"
+        },
+        {
+          "img": "/img/uploads/capa-png.png"
+        },
+        {
+          "img": "/img/uploads/sliders-3.jpg"
+        }
+      ]
     }
   ]
 }
