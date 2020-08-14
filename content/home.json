@@ -5,7 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 0,
-      "slides": []
+      "slides": [
+        {
+          "start": "2020-08-14T14:48:11.810Z",
+          "end": "2020-08-14T14:48:11.931Z",
+          "img": "/img/uploads/sliders-2.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
