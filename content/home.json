@@ -7,6 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-08-14T15:52:34.399Z",
+          "end": "2021-08-14T15:52:00.000Z",
+          "img": "/img/uploads/sliders-2.jpg"
+        },
+        {
           "start": "2020-08-14T15:42:00.513Z",
           "end": "2021-08-14T15:42:00.000Z",
           "img": "/img/uploads/sliders-3.jpg"
@@ -16,16 +21,6 @@
           "end": "2021-08-14T15:48:00.000Z",
           "img": "/img/uploads/sliders-1.jpg",
           "mobile_img": "/img/uploads/capa-png.png"
-        },
-        {
-          "start": "2020-08-14T15:52:34.399Z",
-          "end": "2021-08-14T15:52:00.000Z",
-          "img": "/img/uploads/sliders-2.jpg"
-        },
-        {
-          "start": "2020-08-14T16:07:24.864Z",
-          "end": "2021-08-14T16:07:00.000Z",
-          "img": "/img/uploads/capa-png.png"
         }
       ]
     },
