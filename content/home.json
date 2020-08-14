@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-08-14T16:11:35.217Z",
+          "end": "2021-08-14T16:11:00.000Z",
+          "img": "/img/uploads/capa-png.png",
+          "link": "https://www.lojaceifeiro.com.br/granolas-250g-e-300g"
+        },
+        {
           "start": "2020-08-14T15:52:34.399Z",
           "end": "2021-08-14T15:52:00.000Z",
           "img": "/img/uploads/sliders-2.jpg",
@@ -24,12 +30,6 @@
           "img": "/img/uploads/sliders-1.jpg",
           "mobile_img": "",
           "link": "https://www.lojaceifeiro.com.br/aveiasceifeiro"
-        },
-        {
-          "start": "2020-08-14T16:11:35.217Z",
-          "end": "2021-08-14T16:11:00.000Z",
-          "img": "/img/uploads/capa-png.png",
-          "link": "https://www.lojaceifeiro.com.br/granolas-250g-e-300g"
         }
       ]
     },
