@@ -16,7 +16,16 @@
       "enabled": true
     },
     {
-      "type": "banners-grid"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/slide-chia1.png",
+          "link": "https://www.lojaceifeiro.com.br/sementedechia"
+        },
+        {
+          "img": "/img/uploads/sliders-2.jpg"
+        }
+      ]
     }
   ]
 }
