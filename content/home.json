@@ -32,7 +32,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "lowest_price"
+      "sort": "lowest_price",
+      "headless": true
     }
   ]
 }
