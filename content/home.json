@@ -32,8 +32,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "lowest_price",
-      "headless": true
+      "sort": "highest_price",
+      "headless": false,
+      "link": "https://www.lojaceifeiro.com.br/premium"
     }
   ]
 }
