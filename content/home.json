@@ -5,13 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 0,
-      "slides": [
-        {
-          "start": "2020-08-14T13:52:03.766Z",
-          "end": "2020-08-14T13:52:03.867Z",
-          "img": "/img/uploads/capa-png.png"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "collection-shelf",
