@@ -9,19 +9,14 @@
       "headless": true
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
         {
-          "img": "/img/uploads/sliders-2.jpg"
-        },
-        {
-          "img": "/img/uploads/sliders-1.jpg"
-        },
-        {
-          "img": "/img/uploads/capa-png.png"
-        },
-        {
-          "img": "/img/uploads/sliders-3.jpg"
+          "start": "2020-08-14T15:38:16.811Z",
+          "end": "2020-08-14T15:38:16.835Z",
+          "img": "/img/uploads/sliders-3.jpg",
+          "link": "https://www.lojaceifeiro.com.br/sementedechia"
         }
       ]
     }
