@@ -10,6 +10,17 @@
           "start": "2020-08-05T13:58:18.465Z",
           "end": "2021-08-05T13:58:00.000Z",
           "img": "/img/uploads/capa-png.png"
+        },
+        {
+          "start": "2020-08-14T12:01:26.430Z",
+          "end": "2020-08-14T12:01:26.550Z",
+          "img": "/img/uploads/slide-chia1.png",
+          "mobile_img": "/img/uploads/slide-aveia2.png"
+        },
+        {
+          "start": "2020-08-14T12:49:49.966Z",
+          "end": "2020-08-14T12:49:50.277Z",
+          "img": "/img/uploads/slide-aveia1.png"
         }
       ]
     },
