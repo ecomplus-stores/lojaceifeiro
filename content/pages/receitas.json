@@ -1,0 +1,10 @@
+{
+  "title": "Receitas",
+  "sections": [
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/omelete.jpg"
+    }
+  ],
+  "body": "Receitas especiais formuladas com os produtos Ceifeiro."
+}
