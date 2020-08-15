@@ -29,6 +29,17 @@
       "sort": "highest_price",
       "headless": false,
       "link": "https://www.lojaceifeiro.com.br/premium"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/promocoes-1.jpg"
+        },
+        {
+          "img": "/img/uploads/promocoes-2.jpg"
+        }
+      ]
     }
   ]
 }
