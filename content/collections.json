@@ -5,7 +5,8 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Linha Premium"
     },
     {
       "type": "document-banner",
