@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": false,
-    "text": "",
+    "text": "Frete grátis para todo o Brasil a partir de R$200,00.",
     "link": ""
   },
   "installments": {
-    "show": false,
+    "show": true,
     "text": "Parcele em até 12x via pagseguro ou à vista com débito ou boleto. "
   },
   "exchange": {
@@ -14,7 +14,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Ceifeiro Alimentos, do Campo para Sua Mesa.",
+    "text": "Aproveite as condições de frete e boas compras!",
     "link": "https://www.lojaceifeiro.com.br/"
   }
 }
