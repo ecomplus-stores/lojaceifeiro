@@ -24,6 +24,10 @@
       ]
     },
     {
+      "type": "blog",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "highest_price",
