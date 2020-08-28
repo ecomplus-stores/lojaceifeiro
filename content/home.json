@@ -24,15 +24,15 @@
       ]
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "highest_price",
       "headless": false,
       "link": "https://www.lojaceifeiro.com.br/premium"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     },
     {
       "type": "banners-grid",
