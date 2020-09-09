@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-08-14T18:55:06.162Z",
-          "end": "2021-08-14T18:55:00.000Z",
-          "img": "/img/uploads/grid-de-banners-mobile-2.png"
-        },
-        {
           "start": "2020-09-09T15:58:57.076Z",
           "end": "2021-09-09T15:58:00.000Z",
           "img": "/img/uploads/sliders-5.png"
+        },
+        {
+          "start": "2020-08-14T18:55:06.162Z",
+          "end": "2021-08-14T18:55:00.000Z",
+          "img": "/img/uploads/grid-de-banners-mobile-2.png"
         },
         {
           "start": "2020-09-09T15:12:29.547Z",
