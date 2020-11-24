@@ -7,10 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-10-23T12:57:29.745Z",
-          "end": "2021-10-23T12:57:00.000Z",
-          "img": "/img/uploads/banner-croccafe-ceifeiro.png",
-          "link": "https://www.lojaceifeiro.com.br/croccafe-ceifeiro-140g"
+          "start": "2020-11-24T17:52:29.182Z",
+          "end": "2021-11-24T17:52:00.000Z",
+          "img": "/img/uploads/grid-de-banners-mobile-novembro-1.png"
         },
         {
           "start": "2020-11-24T17:42:01.434Z",
@@ -18,9 +17,10 @@
           "img": "/img/uploads/grid-de-banners-mobile-novembro-2.png"
         },
         {
-          "start": "2020-11-24T17:52:29.182Z",
-          "end": "2021-11-24T17:52:00.000Z",
-          "img": "/img/uploads/grid-de-banners-mobile-novembro-1.png"
+          "start": "2020-10-23T12:57:29.745Z",
+          "end": "2021-10-23T12:57:00.000Z",
+          "img": "/img/uploads/banner-croccafe-ceifeiro.png",
+          "link": "https://www.lojaceifeiro.com.br/croccafe-ceifeiro-140g"
         }
       ]
     },
