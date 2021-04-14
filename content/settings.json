@@ -1,10 +1,9 @@
 {
-  "store_id": 1120,
   "domain": "http://www.lojaceifeiro.com.br",
   "currency_symbol": "R$",
   "primary_color": "#ffbb00",
   "theme": {
-    "bootswatch": "minty",
+    "bootswatch": "materia",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -18,6 +17,7 @@
   "country_code": "BR",
   "secondary_color": "#326c13",
   "icon": "/img/uploads/ceifeiro-alimentos-integrais.png",
+  "store_id": 1120,
   "description": "Há 17 anos nossa missão é proporcionar qualidade de vida por meio de alimentos saudáveis e saborosos.",
   "large_icon": "/img/uploads/ceifeiro-alimentos-integrais.png"
 }
