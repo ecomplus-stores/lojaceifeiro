@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Frete Grátis para Fortaleza-CE a partir de R$50,00.",
+    "text": "Delivery Grátis para Fortaleza-CE a partir de R$50,00. Aproveite!",
     "link": ""
   },
   "contacts_stripe": {
@@ -18,7 +18,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/granolas?Granolas"
+    ],
     "random": 12,
     "full_width": true
   },
