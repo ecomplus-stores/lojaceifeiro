@@ -7,6 +7,12 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-05-18T14:17:57.516Z",
+          "end": "2022-05-18T14:17:00.000Z",
+          "img": "/img/uploads/bannerfamilia.png",
+          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
+        },
+        {
           "start": "2021-04-30T16:42:49.679Z",
           "end": "2022-04-30T16:42:00.000Z",
           "img": "/img/uploads/banners-loja-abril-2021-1.png",
@@ -30,12 +36,6 @@
           "start": "2021-04-30T16:52:49.245Z",
           "end": "2022-04-30T16:52:00.000Z",
           "img": "/img/uploads/banners-loja-abril-2021-2.png"
-        },
-        {
-          "start": "2021-05-18T14:17:57.516Z",
-          "end": "2022-05-18T14:17:00.000Z",
-          "img": "/img/uploads/bannerfamilia.png",
-          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
         }
       ]
     },
