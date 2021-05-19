@@ -12,6 +12,24 @@
           "img": "/img/uploads/bannerfamilia.png",
           "mobile_img": "/img/uploads/bannerfamilia.png",
           "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
+        },
+        {
+          "start": "2021-05-19T13:21:14.501Z",
+          "end": "2022-02-03T13:21:14.556Z",
+          "img": "/img/uploads/banners-loja-abril-2021-2.png",
+          "link": "https://www.lojaceifeiro.com.br/granolas-250g-e-300g"
+        },
+        {
+          "start": "2021-05-19T13:22:14.322Z",
+          "end": "2022-02-03T13:22:14.415Z",
+          "img": "/img/uploads/banners-loja-abril-2021-3.png",
+          "link": "https://www.lojaceifeiro.com.br/aveiasceifeiro"
+        },
+        {
+          "start": "2021-05-19T13:22:59.656Z",
+          "end": "2022-02-03T13:22:59.713Z",
+          "img": "/img/uploads/banners-loja-abril-2021-4.png",
+          "link": "https://www.lojaceifeiro.com.br/granolas"
         }
       ]
     },
