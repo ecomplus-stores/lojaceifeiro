@@ -7,35 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-05-18T14:17:57.516Z",
-          "end": "2022-05-18T14:17:00.000Z",
-          "img": "/img/uploads/bannerfamilia.png",
-          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
-        },
-        {
-          "start": "2021-04-30T16:42:49.679Z",
-          "end": "2022-04-30T16:42:00.000Z",
-          "img": "/img/uploads/banners-loja-abril-2021-1.png",
-          "mobile_img": "",
-          "link": "https://www.lojaceifeiro.com.br/granolas",
-          "alt": ""
-        },
-        {
-          "start": "2021-04-30T16:43:18.483Z",
-          "end": "2022-04-30T16:43:00.000Z",
-          "img": "/img/uploads/banners-loja-abril-2021-3.png",
-          "link": "https://www.lojaceifeiro.com.br/aveiasceifeiro"
-        },
-        {
-          "start": "2021-04-30T16:44:23.256Z",
-          "end": "2022-04-30T16:44:00.000Z",
-          "img": "/img/uploads/banners-loja-abril-2021-4.png",
-          "link": "https://www.lojaceifeiro.com.br/granolas"
-        },
-        {
-          "start": "2021-04-30T16:52:49.245Z",
-          "end": "2022-04-30T16:52:00.000Z",
-          "img": "/img/uploads/banners-loja-abril-2021-2.png"
+          "start": "2021-05-19T12:48:40.978Z",
+          "end": "2021-05-19T12:48:41.027Z",
+          "img": "/img/uploads/bannerfamilia.png"
         }
       ]
     },
