@@ -7,6 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-08-20T17:35:13.717Z",
+          "end": "2021-08-20T17:35:13.869Z",
+          "img": "/img/uploads/banners-agosto.jpg"
+        },
+        {
           "start": "2021-05-19T12:48:40.978Z",
           "end": "2022-05-19T12:48:41.027Z",
           "img": "/img/uploads/bannerfamilia.png",
