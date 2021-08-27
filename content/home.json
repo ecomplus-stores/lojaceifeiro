@@ -7,39 +7,9 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-08-20T17:35:13.717Z",
-          "end": "2022-08-20T17:35:00.000Z",
-          "img": "/img/uploads/banneragosto2021-1.png"
-        },
-        {
-          "start": "2021-08-20T17:59:01.902Z",
-          "end": "2022-08-20T17:59:00.000Z",
-          "img": "/img/uploads/banneragosto2021-2.png"
-        },
-        {
-          "start": "2021-05-19T12:48:40.978Z",
-          "end": "2022-05-19T12:48:41.027Z",
-          "img": "/img/uploads/bannerfamilia.png",
-          "mobile_img": "/img/uploads/bannerfamilia.png",
-          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
-        },
-        {
-          "start": "2021-05-19T13:21:14.501Z",
-          "end": "2022-02-03T13:21:14.556Z",
-          "img": "/img/uploads/banners-loja-abril-2021-2.png",
-          "link": "https://www.lojaceifeiro.com.br/granolas-250g-e-300g"
-        },
-        {
-          "start": "2021-05-19T13:22:14.322Z",
-          "end": "2022-02-03T13:22:14.415Z",
-          "img": "/img/uploads/banners-loja-abril-2021-3.png",
-          "link": "https://www.lojaceifeiro.com.br/aveiasceifeiro"
-        },
-        {
-          "start": "2021-05-19T13:22:59.656Z",
-          "end": "2022-02-03T13:22:59.713Z",
-          "img": "/img/uploads/banners-loja-abril-2021-4.png",
-          "link": "https://www.lojaceifeiro.com.br/granolas"
+          "start": "2021-08-27T19:05:50.680Z",
+          "end": "2021-08-27T19:05:50.738Z",
+          "img": "/img/uploads/banners-agosto.png"
         }
       ]
     },
