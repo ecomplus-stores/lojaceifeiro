@@ -7,9 +7,20 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-08-27T19:05:50.680Z",
-          "end": "2022-08-27T19:05:00.000Z",
-          "img": "/img/uploads/banners-agosto.png"
+          "start": "2021-08-30T12:01:48.244Z",
+          "end": "2022-08-30T12:01:00.000Z",
+          "img": "/img/uploads/banneragosto2021-1.png",
+          "mobile_img": "/img/uploads/banneragosto2021-2.png"
+        },
+        {
+          "start": "2021-08-30T12:02:27.774Z",
+          "end": "2021-08-30T12:02:27.857Z",
+          "img": "/img/uploads/banneragosto2021-2.png"
+        },
+        {
+          "start": "2021-08-30T12:02:33.242Z",
+          "end": "2021-08-30T12:02:33.327Z",
+          "img": "/img/uploads/bannerfamilia.png"
         }
       ]
     },
