@@ -22,7 +22,8 @@
           "end": "2022-08-30T12:02:00.000Z",
           "img": "/img/uploads/bannerfamilia.png"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "collection-shelf",
@@ -38,9 +39,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/promocoes-1.jpg"
-        },
         {
           "img": "/img/uploads/promocoes-2.jpg"
         }
