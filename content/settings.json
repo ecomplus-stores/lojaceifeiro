@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ffbb00",
   "theme": {
-    "bootswatch": "yeti",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/ceifeiro-alimentos-integrais.png",
