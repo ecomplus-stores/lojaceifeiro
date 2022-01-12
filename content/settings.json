@@ -1,7 +1,7 @@
 {
   "domain": "http://www.lojaceifeiro.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ffbb00",
+  "primary_color": "#2a7c3e",
   "theme": {
     "bootswatch": "yeti",
     "custom": "clean-gray"
