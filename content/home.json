@@ -30,30 +30,15 @@
       "full_width": true
     },
     {
-      "type": "collection-shelf",
+      "page": 2,
+      "title": "Granolas",
       "shuffle": true,
-      "sort": "highest_price",
       "headless": false,
-      "link": "https://www.lojaceifeiro.com.br/premium"
-    },
-    {
-      "type": "blog",
-      "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/aveia-potes.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
-      "shuffle": true,
+      "link": "https://www.lojaceifeiro.com.br/granolas",
+      "limit": 1,
       "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
-      "sort": "lowest_price",
-      "headless": true
+      "sort": "highest_price"
     },
     {
       "type": "banners-grid",
@@ -66,9 +51,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5ef2574f14ff772fde7ad755:categories:Cookies:/biscoitos-e-cookies"
+      "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro",
+      "sort": "lowest_price",
+      "headless": true
     },
     {
       "type": "banners-grid",
@@ -80,10 +65,21 @@
     },
     {
       "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "5f2bf649f023684cdbd7bfe2:categories:Granolas - 1kg:/granolas-1kg"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f2aa352f023684cdbd76580:categories:Kits Ceifeiro:/kits-promocionais"
+      "collection_id": "5f2c30b0f023684cdbd7e054:categories:Chia:/sementedechia"
     }
   ]
 }
