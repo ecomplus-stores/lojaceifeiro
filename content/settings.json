@@ -4,7 +4,7 @@
   "primary_color": "#2a7c3e",
   "theme": {
     "bootswatch": "yeti",
-    "custom": "clean-gray"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/ceifeiro-alimentos-integrais.png",
