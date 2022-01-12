@@ -30,15 +30,13 @@
       "full_width": true
     },
     {
-      "page": 2,
-      "title": "Granolas",
-      "shuffle": true,
-      "headless": false,
       "type": "collection-shelf",
-      "link": "https://www.lojaceifeiro.com.br/granolas",
+      "shuffle": true,
+      "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
+      "sort": "lowest_price",
+      "headless": true,
       "limit": 20,
-      "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro",
-      "sort": "lowest_price"
+      "page": 6
     },
     {
       "type": "banner-slider",
@@ -53,13 +51,15 @@
       ]
     },
     {
-      "type": "collection-shelf",
+      "page": 2,
+      "title": "",
       "shuffle": true,
-      "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
-      "sort": "lowest_price",
-      "headless": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://www.lojaceifeiro.com.br/aveias",
       "limit": 20,
-      "page": 6
+      "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
