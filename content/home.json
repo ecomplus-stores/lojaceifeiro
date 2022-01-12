@@ -36,9 +36,9 @@
       "headless": false,
       "type": "collection-shelf",
       "link": "https://www.lojaceifeiro.com.br/granolas",
-      "limit": 1,
+      "limit": 20,
       "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
-      "sort": "highest_price"
+      "sort": "lowest_price"
     },
     {
       "type": "banner-slider",
