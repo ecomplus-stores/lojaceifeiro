@@ -62,7 +62,8 @@
       "shuffle": true,
       "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro",
       "sort": "lowest_price",
-      "headless": true
+      "headless": true,
+      "limit": 20
     },
     {
       "type": "collection-shelf",
