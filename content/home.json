@@ -98,6 +98,25 @@
       "collection_id": "5f2aa389f023684cdbd7658d:categories:Gergelim:/gergelim"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-01-12T18:59:19.338Z",
+          "end": "2022-01-12T18:59:19.476Z",
+          "img": "/img/uploads/jan2022-6.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f2aa37ff023684cdbd7658a:categories:Linhaça:/linhaca"
+    },
+    {
       "type": "blog",
       "enabled": true
     }
