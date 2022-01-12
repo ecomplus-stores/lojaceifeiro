@@ -82,8 +82,22 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f2aa389f023684cdbd7658d:categories:Gergelim:/gergelim"
+    },
+    {
       "type": "blog",
       "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro"
     }
   ]
 }
