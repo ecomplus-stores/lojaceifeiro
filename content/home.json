@@ -69,8 +69,16 @@
       "collection_id": "5f2bf649f023684cdbd7bfe2:categories:Granolas - 1kg:/granolas-1kg"
     },
     {
-      "type": "blog",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-01-12T18:10:41.361Z",
+          "end": "2023-01-12T18:10:00.000Z",
+          "img": "/img/uploads/jan2022-7.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
@@ -78,6 +86,29 @@
       "limit": 12,
       "page": 1,
       "collection_id": "5f2c30b0f023684cdbd7e054:categories:Chia:/sementedechia"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-01-12T18:11:52.397Z",
+          "end": "2023-11-30T18:11:00.000Z",
+          "img": "/img/uploads/jan2022-8.png"
+        }
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "5f2aa389f023684cdbd7658d:categories:Gergelim:/gergelim"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
