@@ -30,13 +30,15 @@
       "full_width": true
     },
     {
-      "type": "collection-shelf",
+      "page": 6,
+      "title": "Granolas",
       "shuffle": true,
-      "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
-      "sort": "lowest_price",
       "headless": true,
+      "type": "collection-shelf",
+      "link": "https://www.lojaceifeiro.com.br/granolas",
       "limit": 20,
-      "page": 6
+      "collection_id": "5ef2577114ff772fde7ad75d:categories:Granolas:/granolas",
+      "sort": "lowest_price"
     },
     {
       "type": "banner-slider",
