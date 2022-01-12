@@ -1,16 +1,16 @@
 {
   "marketing_stripe": {
-    "text": "Viva uma Vida Integral",
+    "text": "Ceifeiro Alimentos | Viva uma Vida Integral! ",
     "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "SOBRE NÓS",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Blog Ceifeiro ",
+        "title": "RECEITAS",
         "link": "https://lojaceifeiro.netlify.app/blog"
       }
     ],
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [
-      "/granolas?Granolas"
+      "/granolas-250g-e-300g?Granolas 250g e 300g"
     ],
     "random": 12,
     "full_width": true
