@@ -32,13 +32,13 @@
     {
       "page": 6,
       "title": "Granolas",
-      "shuffle": true,
+      "shuffle": false,
       "headless": true,
       "type": "collection-shelf",
       "link": "https://www.lojaceifeiro.com.br/granolas",
       "limit": 20,
-      "collection_id": "5f2c0a59f023684cdbd7cc0a:categories:Granolas 250g e 300g:/granolas-250g-e-300g",
-      "sort": "lowest_price"
+      "collection_id": "5f2bf649f023684cdbd7bfe2:categories:Granolas - 1kg:/granolas-1kg",
+      "sort": "views"
     },
     {
       "type": "banner-slider",
