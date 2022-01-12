@@ -41,9 +41,18 @@
       "sort": "highest_price"
     },
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
         {
+          "start": "2022-01-12T17:46:26.111Z",
+          "end": "2023-01-12T17:46:00.000Z",
+          "img": "/img/uploads/jan2022-6.png"
+        },
+        {
+          "start": "2022-01-12T17:46:47.121Z",
+          "end": "2023-01-12T17:46:00.000Z",
           "img": "/img/uploads/jan2022-5.png"
         }
       ]
@@ -54,14 +63,6 @@
       "collection_id": "5ef5043414ff772fde7b756b:categories:Aveia:/aveiasceifeiro",
       "sort": "lowest_price",
       "headless": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/jan2022-6.png"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
