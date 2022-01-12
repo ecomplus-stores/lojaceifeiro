@@ -19,9 +19,17 @@
   },
   "categories_list": {
     "featured": [
-      "/granolas-250g-e-300g?Granolas 250g e 300g"
+      "/granolas?Granolas",
+      "/aveiasceifeiro?Aveia",
+      "/sementedechia?Chia",
+      "/linhaca?Linhaça",
+      "/gergelim?Gergelim",
+      "/flocos-de-tapioca-do-para?Tapioca | Guaraná",
+      "/arrozintegralceifeiro?Arroz Integral",
+      "/acucar-mascavo?Açúcar Mascavo",
+      "/premium?PREMIUM"
     ],
-    "random": 12,
+    "random": 1,
     "full_width": true
   },
   "search_input": true
