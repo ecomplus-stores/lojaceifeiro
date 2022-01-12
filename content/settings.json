@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#ffbb00",
   "theme": {
-    "bootswatch": "materia",
+    "bootswatch": "yeti",
     "custom": "niche-flowers"
   },
   "bg_color": "#ffffff",
@@ -18,6 +18,6 @@
   "secondary_color": "#326c13",
   "icon": "/img/uploads/ceifeiro-alimentos-integrais.png",
   "store_id": 1120,
-  "description": "Há 17 anos nossa missão é proporcionar qualidade de vida por meio de alimentos saudáveis e saborosos.",
+  "description": "Desde 2003, nossa missão é proporcionar qualidade de vida por meio de alimentos saudáveis e saborosos.",
   "large_icon": "/img/uploads/ceifeiro-alimentos-integrais.png"
 }
