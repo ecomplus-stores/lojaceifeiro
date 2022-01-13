@@ -9,22 +9,26 @@
         {
           "start": "2022-01-12T13:44:27.250Z",
           "end": "2023-01-12T13:44:00.000Z",
-          "img": "/img/uploads/jan2022-1.png"
+          "img": "/img/uploads/jan2022-1.png",
+          "link": "https://www.lojaceifeiro.com.br/aveia-sem-gluten-ceifeiro-120g"
         },
         {
           "start": "2022-01-12T13:45:02.112Z",
           "end": "2023-01-12T13:45:00.000Z",
-          "img": "/img/uploads/jan2022-2.png"
+          "img": "/img/uploads/jan2022-2.png",
+          "link": "https://www.lojaceifeiro.com.br/flocos-de-cereais--tapioca"
         },
         {
           "start": "2021-08-30T12:02:33.242Z",
           "end": "2022-08-30T12:02:00.000Z",
-          "img": "/img/uploads/bannerfamilia.png"
+          "img": "/img/uploads/bannerfamilia.png",
+          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
         },
         {
           "start": "2022-01-12T13:46:34.771Z",
           "end": "2023-01-12T13:46:00.000Z",
-          "img": "/img/uploads/jan2022-3.png"
+          "img": "/img/uploads/jan2022-3.png",
+          "link": "https://www.lojaceifeiro.com.br/flocos-de-cereais--tapioca"
         }
       ],
       "full_width": true
@@ -76,7 +80,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f2c30b0f023684cdbd7e054:categories:Chia:/sementedechia"
+      "collection_id": "61e078ad0c7c72722507b055:categories:SEMENTES E GRÃOS:/sementes-e-graos"
     },
     {
       "type": "banner-slider",
@@ -95,7 +99,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f2aa389f023684cdbd7658d:categories:Gergelim:/gergelim"
+      "collection_id": "61e078ad0c7c72722507b055:categories:SEMENTES E GRÃOS:/sementes-e-graos"
     },
     {
       "type": "banner-slider",
@@ -114,7 +118,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "5f2aa37ff023684cdbd7658a:categories:Linhaça:/linhaca"
+      "collection_id": "61e079ef0c7c72722507b4e3:categories:COMPLEMENTOS ALIMENTARES:/complementos-alimentares"
     },
     {
       "type": "blog",
