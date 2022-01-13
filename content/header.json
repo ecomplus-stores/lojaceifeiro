@@ -19,16 +19,12 @@
   },
   "categories_list": {
     "featured": [
+      "/sem-gluten?SEM GLÚTEN",
       "/granolas?Granolas",
-      "/flocos-de-milho?Flocos de Milho",
       "/aveiasceifeiro?Aveia",
-      "/sementedechia?Chia",
-      "/linhaca?Linhaça",
-      "/gergelim?Gergelim",
-      "/flocos-de-tapioca-do-para?Tapioca | Guaraná",
-      "/arrozintegralceifeiro?Arroz Integral",
-      "/acucar-mascavo?Açúcar Mascavo",
-      "/premium?PREMIUM"
+      "/sementes-e-graos?SEMENTES E GRÃOS",
+      "/flocos-de-cereais--tapioca?FLOCOS DE CEREAIS | TAPIOCA",
+      "/complementos-alimentares?COMPLEMENTOS ALIMENTARES"
     ],
     "random": 1,
     "full_width": true
