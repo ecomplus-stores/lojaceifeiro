@@ -80,7 +80,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "61e078ad0c7c72722507b055:categories:SEMENTES E GRÃOS:/sementes-e-graos"
+      "collection_id": "5f2c30b0f023684cdbd7e054:categories:Chia:/sementedechia"
     },
     {
       "type": "banner-slider",
@@ -96,7 +96,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "61e078ad0c7c72722507b055:categories:SEMENTES E GRÃOS:/sementes-e-graos"
