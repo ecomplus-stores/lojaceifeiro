@@ -1,9 +1,12 @@
 {
   "sort_categories": [
+    "sem-gluten",
     "premium",
     "granolas",
+    "sementes-e-graos",
     "aveiasceifeiro",
-    "biscoitos-e-cookies"
+    "biscoitos-e-cookies",
+    "flocos-de-cereais--tapioca"
   ],
   "phone_wpp": true,
   "socials": true,
