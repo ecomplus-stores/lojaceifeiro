@@ -9,8 +9,8 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
+    "list_categories": false,
+    "title": "",
     "list": []
   },
   "contacts": {
@@ -27,20 +27,20 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
-    "visa": true,
-    "boleto": true,
+    "bb": false,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
