@@ -1,15 +1,6 @@
 {
-  "sort_categories": [
-    "sem-gluten",
-    "sem-adicao-de-acucar",
-    "complementos-alimentares",
-    "granolas",
-    "aveiasceifeiro",
-    "sementes-e-graos",
-    "flocos-de-cereais--tapioca",
-    "complementos-alimentares"
-  ],
+  "sort_categories": [],
   "phone_wpp": true,
   "socials": true,
-  "alphabetical_order": true
+  "alphabetical_order": false
 }
