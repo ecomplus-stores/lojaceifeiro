@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c9ac2487954c095f965441060ac3b2b3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.bf5586dd8ee6a3da9a5565a3e111a196.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a5532cf5857e26bbb2cb137c5ee10e08.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.aa94b31e98b71f8fd75e3faf0f4145cd.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.132d71d24af29e6980b8aca350915e86.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Ceifeiro Alimentos Integrais",
+  "short_name": "Loja Ceifeiro",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Desde 2003, nossa missão é proporcionar qualidade de vida por meio de alimentos saudáveis e saborosos.",
+  "background_color": "#ffffff",
+  "theme_color": "#2a7c3e"
+}
