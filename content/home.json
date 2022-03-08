@@ -5,37 +5,6 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2022-01-12T13:44:27.250Z",
-          "end": "2023-01-12T13:44:00.000Z",
-          "img": "/img/uploads/jan2022-1.png",
-          "link": "https://www.lojaceifeiro.com.br/aveia-sem-gluten-ceifeiro-120g"
-        },
-        {
-          "start": "2022-01-12T13:45:02.112Z",
-          "end": "2023-01-12T13:45:00.000Z",
-          "img": "/img/uploads/jan2022-2.png",
-          "link": "https://www.lojaceifeiro.com.br/flocos-de-cereais--tapioca"
-        },
-        {
-          "start": "2021-08-30T12:02:33.242Z",
-          "end": "2022-08-30T12:02:00.000Z",
-          "img": "/img/uploads/bannerfamilia.png",
-          "link": "https://www.lojaceifeiro.com.br/biscoitos-e-cookies"
-        },
-        {
-          "start": "2022-01-12T13:46:34.771Z",
-          "end": "2023-01-12T13:46:00.000Z",
-          "img": "/img/uploads/jan2022-3.png",
-          "link": "https://www.lojaceifeiro.com.br/flocos-de-cereais--tapioca"
-        }
-      ],
-      "full_width": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
       "full_width": true,
       "slides": [
         {
