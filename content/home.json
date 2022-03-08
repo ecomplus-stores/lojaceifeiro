@@ -34,17 +34,6 @@
       "full_width": true
     },
     {
-      "page": 1,
-      "title": "Granolas",
-      "shuffle": true,
-      "headless": true,
-      "type": "collection-shelf",
-      "link": "https://www.lojaceifeiro.com.br/granolas",
-      "limit": 21,
-      "collection_id": "5f2c0a59f023684cdbd7cc0a:categories:Granolas 250g e 300g:/granolas-250g-e-300g",
-      "sort": "views"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -55,13 +44,6 @@
           "img": "/img/uploads/jan2022-5.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f2bf649f023684cdbd7bfe2:categories:Granolas - 1kg:/granolas-1kg"
     },
     {
       "type": "banner-slider",
@@ -76,13 +58,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f2c30b0f023684cdbd7e054:categories:Chia:/sementedechia"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -95,13 +70,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61e078ad0c7c72722507b055:categories:SEMENTES E GRÃOS:/sementes-e-graos"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -112,13 +80,6 @@
           "img": "/img/uploads/jan2022-6.png"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61e079ef0c7c72722507b4e3:categories:COMPLEMENTOS ALIMENTARES:/complementos-alimentares"
     },
     {
       "type": "blog",
